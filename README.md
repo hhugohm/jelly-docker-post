@@ -1,7 +1,5 @@
-# jelly-docker-post
-jelly-docker-post
 ------------------------------
-running-jekyll-in-docker
+#  running-jekyll-in-docker
 -----------------------------
 - JEKYLL_VERSION=3.8
 - https://ddewaele.github.io/running-jekyll-in-docker/
